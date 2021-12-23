@@ -52,6 +52,11 @@ body {
   background-image: url("https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg");
 }
 
+.header-linkedin {
+  padding-left: 25px;
+  background-image: url("img/icon-phone-footer.svg");
+}
+
 .hero-image {
   margin-bottom: 620px;
 }
@@ -195,6 +200,11 @@ body {
 }
 
 .footer-phone {
+  padding-left: 25px;
+  background-image: url("img/icon-phone-footer.svg");
+}
+
+.footer-linkedin {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
 }
