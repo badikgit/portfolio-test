@@ -47,7 +47,8 @@ body {
 }
 
 .header-discord {
-  padding-left: 20px;
+  padding-left: 25px;
+  height: 20px;
   background-image: url("https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg");
 }
 
@@ -199,6 +200,7 @@ body {
 }
 
 .footer-discord {
-  padding-left: 20px;
+  padding-left: 25px;
+  height: 20px;
   background-image: url("https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg");
 }
