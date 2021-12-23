@@ -49,12 +49,12 @@ body {
 .header-discord {
   padding-left: 25px;
   height: 20px;
-  background-image: url("https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg");
+  background-image: url("img/icon-discord-header.svg");
 }
 
 .header-linkedin {
   padding-left: 25px;
-  background-image: url("img/icon-linkedin.svg");
+  background-image: url("img/icon-linkedin-header.svg");
 }
 
 .hero-image {
@@ -205,12 +205,12 @@ body {
 }
 
 .footer-linkedin {
-  padding-left: 25px;
-  background-image: url("img/icon-phone-footer.svg");
+  padding-left: 20px;
+  background-image: url("img/icon-linkedin-footer.svg");
 }
 
 .footer-discord {
   padding-left: 25px;
   height: 20px;
-  background-image: url("https://discord.com/assets/145dc557845548a36a82337912ca3ac5.svg");
+  background-image: url("img/icon-discord-footer.svg");
 }
